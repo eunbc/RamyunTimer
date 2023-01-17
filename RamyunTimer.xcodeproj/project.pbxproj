@@ -11,6 +11,7 @@
 		4F76DD932976459C005F706C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F76DD922976459C005F706C /* ContentView.swift */; };
 		4F76DD952976459D005F706C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F76DD942976459D005F706C /* Assets.xcassets */; };
 		4F76DD982976459D005F706C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F76DD972976459D005F706C /* Preview Assets.xcassets */; };
+		4F76DD9F2976D71F005F706C /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F76DD9E2976D71F005F706C /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4F76DD922976459C005F706C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4F76DD942976459D005F706C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F76DD972976459D005F706C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4F76DD9E2976D71F005F706C /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4F76DD902976459C005F706C /* RamyunTimerApp.swift */,
 				4F76DD922976459C005F706C /* ContentView.swift */,
+				4F76DD9E2976D71F005F706C /* TimerView.swift */,
 				4F76DD942976459D005F706C /* Assets.xcassets */,
 				4F76DD962976459D005F706C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F76DD9F2976D71F005F706C /* TimerView.swift in Sources */,
 				4F76DD932976459C005F706C /* ContentView.swift in Sources */,
 				4F76DD912976459C005F706C /* RamyunTimerApp.swift in Sources */,
 			);
