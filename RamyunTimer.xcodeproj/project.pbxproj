@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F04DB2F29783C8300F4D2E3 /* RamyunList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F04DB2E29783C8300F4D2E3 /* RamyunList.swift */; };
 		4F76DD912976459C005F706C /* RamyunTimerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F76DD902976459C005F706C /* RamyunTimerApp.swift */; };
 		4F76DD932976459C005F706C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F76DD922976459C005F706C /* ContentView.swift */; };
 		4F76DD952976459D005F706C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F76DD942976459D005F706C /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F04DB2E29783C8300F4D2E3 /* RamyunList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RamyunList.swift; sourceTree = "<group>"; };
 		4F76DD8D2976459C005F706C /* RamyunTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RamyunTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F76DD902976459C005F706C /* RamyunTimerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RamyunTimerApp.swift; sourceTree = "<group>"; };
 		4F76DD922976459C005F706C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				4F76DD902976459C005F706C /* RamyunTimerApp.swift */,
 				4F76DD922976459C005F706C /* ContentView.swift */,
 				4F76DD9E2976D71F005F706C /* TimerView.swift */,
+				4F04DB2E29783C8300F4D2E3 /* RamyunList.swift */,
 				4F76DD942976459D005F706C /* Assets.xcassets */,
 				4F76DD962976459D005F706C /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				4F76DD9F2976D71F005F706C /* TimerView.swift in Sources */,
 				4F76DD932976459C005F706C /* ContentView.swift in Sources */,
 				4F76DD912976459C005F706C /* RamyunTimerApp.swift in Sources */,
+				4F04DB2F29783C8300F4D2E3 /* RamyunList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
